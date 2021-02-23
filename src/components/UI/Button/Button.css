@@ -1,0 +1,21 @@
+.ui-button {
+  font-family: montserrat;
+  padding: 9px 10px;
+  text-transform: uppercase;
+   text-decoration: none;
+  font-weight: 600;
+  transition: color 200ms;
+   border: 1px;
+  font-size: 16px;
+  text-align: center;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.ui-button--contained-green {
+ background-image: linear-gradient(to right, rgb(156, 37, 176), rgb(67, 59, 120));
+  color: #fff;
+  border-radius: 8px;
+}
+
+
