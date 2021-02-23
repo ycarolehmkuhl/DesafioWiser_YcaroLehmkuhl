@@ -1,5 +1,4 @@
-# Portugues
-
+Informações Basicas
 ### 'yarn'
 
 <p>Digite a palavra Yarn  para instalar as dependencias do projeto</p>
